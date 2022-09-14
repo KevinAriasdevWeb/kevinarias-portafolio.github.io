@@ -17,5 +17,3 @@ Este proyecto no necesita instalacion.
 Si quieres contratarme puedes escribirme a (correo) para consultas.
 
 ## Licencia
-MIT public license v3.0
-No puede usarse comercialmente.
