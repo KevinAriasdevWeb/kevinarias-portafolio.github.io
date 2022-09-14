@@ -4,8 +4,8 @@
 ##Autor 
 ** Kevin Arias**
 
-*[linkedIn](www.linkedin.com/in/kevinariasdevweb)
-*[Porfolio web]()
+* [linkedIn] (www.linkedin.com/in/kevinariasdevweb)
+* [Porfolio web] ()
 
 ## Ver ejempolo e vivo
 -[ENLACEGITHUBPAGES] ()
